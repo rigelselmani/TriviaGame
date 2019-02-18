@@ -1,14 +1,14 @@
 <<<<<<< HEAD
 # TriviaGame
 
- *A Trivia Game with multiple choice questions about Rutgers history.
+ *A Trivia Game with multiple choice questions about Soccer World Cup history.
 
 Overview
-Multiple choice trivia game created with Html Css JavaScript and jQuery themed around Nike history.
+Multiple choice trivia game created with Html Css JavaScript and jQuery.
 
 #Rules & Features
 
-Once JUST DO IT is clicked, user has 60 seconds to guess 4 questions
+Once START is clicked, user has 15 seconds to guess 4 questions
 
 *If time runs out, the users score is shown
 *Users are allowed to choose one answer per question
@@ -16,9 +16,4 @@ Once JUST DO IT is clicked, user has 60 seconds to guess 4 questions
 Users score is talied once the submit button is clicked
 
 History
-Created on 5/21/17
-
-License
-=======
-T
->>>>>>> 138a5b0ec7e02c408a413d90472173908d313f3b
+Created on 01/20/18
