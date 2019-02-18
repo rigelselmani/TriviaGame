@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TriviaGame
 
  *A Trivia Game with multiple choice questions about Rutgers history.
@@ -18,3 +19,6 @@ History
 Created on 5/21/17
 
 License
+=======
+T
+>>>>>>> 138a5b0ec7e02c408a413d90472173908d313f3b
