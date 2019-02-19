@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # TriviaGame
 
-https://github.com/rigelselmani/TriviaGame
+https://rigelselmani.github.io/TriviaGame/
 
  *A Trivia Game with multiple choice questions about Soccer World Cup history.
 
